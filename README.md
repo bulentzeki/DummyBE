@@ -1,5 +1,6 @@
 # DummyBE
 
+For first run you have to run "npm i" (Node)
 
 To run application "node index.js"
 
