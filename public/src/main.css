@@ -1,0 +1,12 @@
+.box {
+  margin: 10px;
+  height: 25px;
+  width: 30px;
+  display:inline-block;
+  background-color: blue;
+  color: #ddd;
+}
+.box-container {
+  border: 2px solid lightslategrey;
+  width: 448px;
+}
